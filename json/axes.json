@@ -1,0 +1,26 @@
+[
+	{
+		"id": "A1",
+		"name": "General",
+		"weights": [20,20,20,20,20],
+		"left": {
+			"name": "Cringe",
+			"color": "#c00000",
+			"icon": "value_images/cringe.png",
+			"description": "People with higher Cringe scores are more cringe. They tend to oppose based."
+		},
+		"right": {
+			"name": "Based",
+			"color": "#00c000",
+			"icon": "value_images/based.png",
+			"description": "People with higher Based scores are more based. They tend to oppose cringe."
+		},
+		"tiers": [
+			"Fanatic Cringe",
+			"Cringe",
+			"Neutral",
+			"Based",
+			"Fanatic Based"
+		]
+	}
+]
