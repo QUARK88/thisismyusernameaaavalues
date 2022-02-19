@@ -19,7 +19,7 @@
 	},
 	{
 		"name": "Disagree",
-		"modifier": 0.5,
+		"modifier": -0.5,
 		"color": "#e00000",
 		"focusColor": "#c00000"
 	},
